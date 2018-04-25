@@ -131,15 +131,15 @@
 		]
 	],
 	"AT2016ezh":[
-		1521900158.7704725,
+		1524642233.7673395,
 		[
 			{
-				"target_classification":"NUCLEUS;UNIDENTIFIED",
+				"target_classification":"field",
 				"obsid":"2007654699",
-				"t_min":57806.21279,
-				"t_max":57806.23139,
+				"t_min":57806.2127978,
+				"t_max":57806.2313973,
 				"instrument_name":"STIS/NUV-MAMA",
-				"proposal_pi":"Blanchard",
+				"proposal_pi":"Blanchard, Peter",
 				"sciProds":{
 					"obsID":[
 						2007654699,
@@ -160,10 +160,10 @@
 						"spectrum"
 					],
 					"obs_id":[
-						"ODEH01010",
-						"ODEH01010",
-						"ODEH01010",
-						"ODEH01010"
+						"odeh01010",
+						"odeh01010",
+						"odeh01010",
+						"odeh01010"
 					],
 					"description":[
 						"DADS RAW file - Raw exposure COS/NICMOS/STIS/WFC3/ACS",
@@ -178,10 +178,10 @@
 						"C"
 					],
 					"dataURI":[
-						"mast:HST/product/odeh01010/odeh01010_raw.fits",
-						"mast:HST/product/odeh01010/odeh01010_x1d.fits",
-						"mast:HST/product/odeh01010/odeh01010_x2d.fits",
-						"mast:HST/product/odeh01010/odeh01010_flt.fits"
+						"mast:HST/product/odeh01010_raw.fits",
+						"mast:HST/product/odeh01010_x1d.fits",
+						"mast:HST/product/odeh01010_x2d.fits",
+						"mast:HST/product/odeh01010_flt.fits"
 					],
 					"productType":[
 						"SCIENCE",
@@ -208,16 +208,16 @@
 						null
 					],
 					"project":[
-						"HST",
-						"HST",
-						"HST",
-						"HST"
+						"CALSTIS",
+						"CALSTIS",
+						"CALSTIS",
+						"CALSTIS"
 					],
 					"prvversion":[
 						null,
-						null,
-						null,
-						null
+						"3.4.1 (20-April-2017)",
+						"3.4.1 (20-April-2017)",
+						"3.4.1 (20-April-2017)"
 					],
 					"proposal_id":[
 						"14902",
@@ -233,7 +233,7 @@
 					],
 					"size":[
 						8429760,
-						74880,
+						77760,
 						14474880,
 						10535040
 					],
