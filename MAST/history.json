@@ -8,8 +8,408 @@
 		[]
 	],
 	"SN2016ezh":[
-		1524982300.115041,
+		1527660861.679684,
 		[
+			{
+				"target_classification":"field",
+				"obsid":"2007654549",
+				"t_min":57806.23355,
+				"t_max":57806.2337815,
+				"instrument_name":"STIS/CCD",
+				"proposal_pi":"Blanchard, Peter",
+				"sciProds":{
+					"obsID":[
+						2007654549,
+						2007654549,
+						2007654549
+					],
+					"obs_collection":[
+						"HST",
+						"HST",
+						"HST"
+					],
+					"dataproduct_type":[
+						"spectrum",
+						"image",
+						"spectrum"
+					],
+					"obs_id":[
+						"odeh01q4q",
+						"odeh01q4q",
+						"odeh01q4q"
+					],
+					"description":[
+						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS",
+						"DADS RAW file - Raw exposure COS/NICMOS/STIS/WFC3/ACS",
+						"DADS X2D file - Calibrated 2D spectrum STIS"
+					],
+					"type":[
+						"S",
+						"S",
+						"S"
+					],
+					"dataURI":[
+						"mast:HST/product/odeh01q4q_flt.fits",
+						"mast:HST/product/odeh01q4q_raw.fits",
+						"mast:HST/product/odeh01q4q_x2d.fits"
+					],
+					"productType":[
+						"SCIENCE",
+						"SCIENCE",
+						"SCIENCE"
+					],
+					"productGroupDescription":[
+						"Minimum Recommended Products",
+						null,
+						null
+					],
+					"productSubGroupDescription":[
+						"FLT",
+						"RAW",
+						"X2D"
+					],
+					"productDocumentationURL":[
+						null,
+						null,
+						null
+					],
+					"project":[
+						"CALSTIS",
+						"CALSTIS",
+						"CALSTIS"
+					],
+					"prvversion":[
+						"3.4.1 (20-April-2017)",
+						null,
+						"3.4.1 (20-April-2017)"
+					],
+					"proposal_id":[
+						"14902",
+						"14902",
+						"14902"
+					],
+					"productFilename":[
+						"odeh01q4q_flt.fits",
+						"odeh01q4q_raw.fits",
+						"odeh01q4q_x2d.fits"
+					],
+					"size":[
+						10535040,
+						2257920,
+						12147840
+					],
+					"parent_obsid":[
+						2007654549,
+						2007654549,
+						2007654549
+					],
+					"_selected_":[
+						null,
+						null,
+						null
+					]
+				}
+			},
+			{
+				"target_classification":"field",
+				"obsid":"2007654550",
+				"t_min":57806.2345915,
+				"t_max":57806.234823,
+				"instrument_name":"STIS/CCD",
+				"proposal_pi":"Blanchard, Peter",
+				"sciProds":{
+					"obsID":[
+						2007654550,
+						2007654550,
+						2007654550
+					],
+					"obs_collection":[
+						"HST",
+						"HST",
+						"HST"
+					],
+					"dataproduct_type":[
+						"spectrum",
+						"image",
+						"spectrum"
+					],
+					"obs_id":[
+						"odeh01q5q",
+						"odeh01q5q",
+						"odeh01q5q"
+					],
+					"description":[
+						"DADS X2D file - Calibrated 2D spectrum STIS",
+						"DADS RAW file - Raw exposure COS/NICMOS/STIS/WFC3/ACS",
+						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
+					],
+					"type":[
+						"S",
+						"S",
+						"S"
+					],
+					"dataURI":[
+						"mast:HST/product/odeh01q5q_x2d.fits",
+						"mast:HST/product/odeh01q5q_raw.fits",
+						"mast:HST/product/odeh01q5q_flt.fits"
+					],
+					"productType":[
+						"SCIENCE",
+						"SCIENCE",
+						"SCIENCE"
+					],
+					"productGroupDescription":[
+						null,
+						null,
+						"Minimum Recommended Products"
+					],
+					"productSubGroupDescription":[
+						"X2D",
+						"RAW",
+						"FLT"
+					],
+					"productDocumentationURL":[
+						null,
+						null,
+						null
+					],
+					"project":[
+						"CALSTIS",
+						"CALSTIS",
+						"CALSTIS"
+					],
+					"prvversion":[
+						"3.4.1 (20-April-2017)",
+						null,
+						"3.4.1 (20-April-2017)"
+					],
+					"proposal_id":[
+						"14902",
+						"14902",
+						"14902"
+					],
+					"productFilename":[
+						"odeh01q5q_x2d.fits",
+						"odeh01q5q_raw.fits",
+						"odeh01q5q_flt.fits"
+					],
+					"size":[
+						12147840,
+						2257920,
+						10535040
+					],
+					"parent_obsid":[
+						2007654550,
+						2007654550,
+						2007654550
+					],
+					"_selected_":[
+						null,
+						null,
+						null
+					]
+				}
+			},
+			{
+				"target_classification":"field",
+				"obsid":"2007654551",
+				"t_min":57806.2371611,
+				"t_max":57806.2373926,
+				"instrument_name":"STIS/CCD",
+				"proposal_pi":"Blanchard, Peter",
+				"sciProds":{
+					"obsID":[
+						2007654551,
+						2007654551,
+						2007654551
+					],
+					"obs_collection":[
+						"HST",
+						"HST",
+						"HST"
+					],
+					"dataproduct_type":[
+						"spectrum",
+						"image",
+						"spectrum"
+					],
+					"obs_id":[
+						"odeh01q7q",
+						"odeh01q7q",
+						"odeh01q7q"
+					],
+					"description":[
+						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS",
+						"DADS RAW file - Raw exposure COS/NICMOS/STIS/WFC3/ACS",
+						"DADS X2D file - Calibrated 2D spectrum STIS"
+					],
+					"type":[
+						"S",
+						"S",
+						"S"
+					],
+					"dataURI":[
+						"mast:HST/product/odeh01q7q_flt.fits",
+						"mast:HST/product/odeh01q7q_raw.fits",
+						"mast:HST/product/odeh01q7q_x2d.fits"
+					],
+					"productType":[
+						"SCIENCE",
+						"SCIENCE",
+						"SCIENCE"
+					],
+					"productGroupDescription":[
+						"Minimum Recommended Products",
+						null,
+						null
+					],
+					"productSubGroupDescription":[
+						"FLT",
+						"RAW",
+						"X2D"
+					],
+					"productDocumentationURL":[
+						null,
+						null,
+						null
+					],
+					"project":[
+						"CALSTIS",
+						"CALSTIS",
+						"CALSTIS"
+					],
+					"prvversion":[
+						"3.4.1 (20-April-2017)",
+						null,
+						"3.4.1 (20-April-2017)"
+					],
+					"proposal_id":[
+						"14902",
+						"14902",
+						"14902"
+					],
+					"productFilename":[
+						"odeh01q7q_flt.fits",
+						"odeh01q7q_raw.fits",
+						"odeh01q7q_x2d.fits"
+					],
+					"size":[
+						10535040,
+						2257920,
+						12147840
+					],
+					"parent_obsid":[
+						2007654551,
+						2007654551,
+						2007654551
+					],
+					"_selected_":[
+						null,
+						null,
+						null
+					]
+				}
+			},
+			{
+				"target_classification":"field",
+				"obsid":"2007654552",
+				"t_min":57806.2382026,
+				"t_max":57806.2384341,
+				"instrument_name":"STIS/CCD",
+				"proposal_pi":"Blanchard, Peter",
+				"sciProds":{
+					"obsID":[
+						2007654552,
+						2007654552,
+						2007654552
+					],
+					"obs_collection":[
+						"HST",
+						"HST",
+						"HST"
+					],
+					"dataproduct_type":[
+						"image",
+						"spectrum",
+						"spectrum"
+					],
+					"obs_id":[
+						"odeh01q8q",
+						"odeh01q8q",
+						"odeh01q8q"
+					],
+					"description":[
+						"DADS RAW file - Raw exposure COS/NICMOS/STIS/WFC3/ACS",
+						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS",
+						"DADS X2D file - Calibrated 2D spectrum STIS"
+					],
+					"type":[
+						"S",
+						"S",
+						"S"
+					],
+					"dataURI":[
+						"mast:HST/product/odeh01q8q_raw.fits",
+						"mast:HST/product/odeh01q8q_flt.fits",
+						"mast:HST/product/odeh01q8q_x2d.fits"
+					],
+					"productType":[
+						"SCIENCE",
+						"SCIENCE",
+						"SCIENCE"
+					],
+					"productGroupDescription":[
+						null,
+						"Minimum Recommended Products",
+						null
+					],
+					"productSubGroupDescription":[
+						"RAW",
+						"FLT",
+						"X2D"
+					],
+					"productDocumentationURL":[
+						null,
+						null,
+						null
+					],
+					"project":[
+						"CALSTIS",
+						"CALSTIS",
+						"CALSTIS"
+					],
+					"prvversion":[
+						null,
+						"3.4.1 (20-April-2017)",
+						"3.4.1 (20-April-2017)"
+					],
+					"proposal_id":[
+						"14902",
+						"14902",
+						"14902"
+					],
+					"productFilename":[
+						"odeh01q8q_raw.fits",
+						"odeh01q8q_flt.fits",
+						"odeh01q8q_x2d.fits"
+					],
+					"size":[
+						2257920,
+						10535040,
+						12147840
+					],
+					"parent_obsid":[
+						2007654552,
+						2007654552,
+						2007654552
+					],
+					"_selected_":[
+						null,
+						null,
+						null
+					]
+				}
+			},
 			{
 				"target_classification":"field",
 				"obsid":"2007654699",
@@ -44,9 +444,9 @@
 					],
 					"description":[
 						"DADS RAW file - Raw exposure COS/NICMOS/STIS/WFC3/ACS",
-						"DADS X1D file - Calibrated 1D spectrum STIS",
+						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS",
 						"DADS X2D file - Calibrated 2D spectrum STIS",
-						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
+						"DADS X1D file - Calibrated 1D spectrum STIS"
 					],
 					"type":[
 						"C",
@@ -56,9 +456,9 @@
 					],
 					"dataURI":[
 						"mast:HST/product/odeh01010_raw.fits",
-						"mast:HST/product/odeh01010_x1d.fits",
+						"mast:HST/product/odeh01010_flt.fits",
 						"mast:HST/product/odeh01010_x2d.fits",
-						"mast:HST/product/odeh01010_flt.fits"
+						"mast:HST/product/odeh01010_x1d.fits"
 					],
 					"productType":[
 						"SCIENCE",
@@ -68,15 +468,15 @@
 					],
 					"productGroupDescription":[
 						null,
+						"Minimum Recommended Products",
 						null,
-						null,
-						"Minimum Recommended Products"
+						null
 					],
 					"productSubGroupDescription":[
 						"RAW",
-						"X1D",
+						"FLT",
 						"X2D",
-						"FLT"
+						"X1D"
 					],
 					"productDocumentationURL":[
 						null,
@@ -104,15 +504,15 @@
 					],
 					"productFilename":[
 						"odeh01010_raw.fits",
-						"odeh01010_x1d.fits",
+						"odeh01010_flt.fits",
 						"odeh01010_x2d.fits",
-						"odeh01010_flt.fits"
+						"odeh01010_x1d.fits"
 					],
 					"size":[
 						8429760,
-						77760,
+						10535040,
 						14474880,
-						10535040
+						77760
 					],
 					"parent_obsid":[
 						2007654699,
