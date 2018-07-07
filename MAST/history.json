@@ -8,7 +8,7 @@
 		[]
 	],
 	"SN2016ezh":[
-		1527660861.679684,
+		1530943961.8646598,
 		[
 			{
 				"target_classification":"field",
@@ -29,8 +29,8 @@
 						"HST"
 					],
 					"dataproduct_type":[
-						"spectrum",
 						"image",
+						"spectrum",
 						"spectrum"
 					],
 					"obs_id":[
@@ -39,9 +39,9 @@
 						"odeh01q4q"
 					],
 					"description":[
-						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS",
 						"DADS RAW file - Raw exposure COS/NICMOS/STIS/WFC3/ACS",
-						"DADS X2D file - Calibrated 2D spectrum STIS"
+						"DADS X2D file - Calibrated 2D spectrum STIS",
+						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
 						"S",
@@ -49,9 +49,9 @@
 						"S"
 					],
 					"dataURI":[
-						"mast:HST/product/odeh01q4q_flt.fits",
 						"mast:HST/product/odeh01q4q_raw.fits",
-						"mast:HST/product/odeh01q4q_x2d.fits"
+						"mast:HST/product/odeh01q4q_x2d.fits",
+						"mast:HST/product/odeh01q4q_flt.fits"
 					],
 					"productType":[
 						"SCIENCE",
@@ -59,14 +59,14 @@
 						"SCIENCE"
 					],
 					"productGroupDescription":[
-						"Minimum Recommended Products",
 						null,
-						null
+						null,
+						"Minimum Recommended Products"
 					],
 					"productSubGroupDescription":[
-						"FLT",
 						"RAW",
-						"X2D"
+						"X2D",
+						"FLT"
 					],
 					"productDocumentationURL":[
 						null,
@@ -79,8 +79,8 @@
 						"CALSTIS"
 					],
 					"prvversion":[
-						"3.4.1 (20-April-2017)",
 						null,
+						"3.4.1 (20-April-2017)",
 						"3.4.1 (20-April-2017)"
 					],
 					"proposal_id":[
@@ -89,14 +89,14 @@
 						"14902"
 					],
 					"productFilename":[
-						"odeh01q4q_flt.fits",
 						"odeh01q4q_raw.fits",
-						"odeh01q4q_x2d.fits"
+						"odeh01q4q_x2d.fits",
+						"odeh01q4q_flt.fits"
 					],
 					"size":[
-						10535040,
 						2257920,
-						12147840
+						12147840,
+						10535040
 					],
 					"parent_obsid":[
 						2007654549,
@@ -129,8 +129,8 @@
 						"HST"
 					],
 					"dataproduct_type":[
-						"spectrum",
 						"image",
+						"spectrum",
 						"spectrum"
 					],
 					"obs_id":[
@@ -139,8 +139,8 @@
 						"odeh01q5q"
 					],
 					"description":[
-						"DADS X2D file - Calibrated 2D spectrum STIS",
 						"DADS RAW file - Raw exposure COS/NICMOS/STIS/WFC3/ACS",
+						"DADS X2D file - Calibrated 2D spectrum STIS",
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
@@ -149,8 +149,8 @@
 						"S"
 					],
 					"dataURI":[
-						"mast:HST/product/odeh01q5q_x2d.fits",
 						"mast:HST/product/odeh01q5q_raw.fits",
+						"mast:HST/product/odeh01q5q_x2d.fits",
 						"mast:HST/product/odeh01q5q_flt.fits"
 					],
 					"productType":[
@@ -164,8 +164,8 @@
 						"Minimum Recommended Products"
 					],
 					"productSubGroupDescription":[
-						"X2D",
 						"RAW",
+						"X2D",
 						"FLT"
 					],
 					"productDocumentationURL":[
@@ -179,8 +179,8 @@
 						"CALSTIS"
 					],
 					"prvversion":[
-						"3.4.1 (20-April-2017)",
 						null,
+						"3.4.1 (20-April-2017)",
 						"3.4.1 (20-April-2017)"
 					],
 					"proposal_id":[
@@ -189,13 +189,13 @@
 						"14902"
 					],
 					"productFilename":[
-						"odeh01q5q_x2d.fits",
 						"odeh01q5q_raw.fits",
+						"odeh01q5q_x2d.fits",
 						"odeh01q5q_flt.fits"
 					],
 					"size":[
-						12147840,
 						2257920,
+						12147840,
 						10535040
 					],
 					"parent_obsid":[
@@ -229,8 +229,8 @@
 						"HST"
 					],
 					"dataproduct_type":[
-						"spectrum",
 						"image",
+						"spectrum",
 						"spectrum"
 					],
 					"obs_id":[
@@ -239,9 +239,9 @@
 						"odeh01q7q"
 					],
 					"description":[
-						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS",
 						"DADS RAW file - Raw exposure COS/NICMOS/STIS/WFC3/ACS",
-						"DADS X2D file - Calibrated 2D spectrum STIS"
+						"DADS X2D file - Calibrated 2D spectrum STIS",
+						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
 						"S",
@@ -249,9 +249,9 @@
 						"S"
 					],
 					"dataURI":[
-						"mast:HST/product/odeh01q7q_flt.fits",
 						"mast:HST/product/odeh01q7q_raw.fits",
-						"mast:HST/product/odeh01q7q_x2d.fits"
+						"mast:HST/product/odeh01q7q_x2d.fits",
+						"mast:HST/product/odeh01q7q_flt.fits"
 					],
 					"productType":[
 						"SCIENCE",
@@ -259,14 +259,14 @@
 						"SCIENCE"
 					],
 					"productGroupDescription":[
-						"Minimum Recommended Products",
 						null,
-						null
+						null,
+						"Minimum Recommended Products"
 					],
 					"productSubGroupDescription":[
-						"FLT",
 						"RAW",
-						"X2D"
+						"X2D",
+						"FLT"
 					],
 					"productDocumentationURL":[
 						null,
@@ -279,8 +279,8 @@
 						"CALSTIS"
 					],
 					"prvversion":[
-						"3.4.1 (20-April-2017)",
 						null,
+						"3.4.1 (20-April-2017)",
 						"3.4.1 (20-April-2017)"
 					],
 					"proposal_id":[
@@ -289,14 +289,14 @@
 						"14902"
 					],
 					"productFilename":[
-						"odeh01q7q_flt.fits",
 						"odeh01q7q_raw.fits",
-						"odeh01q7q_x2d.fits"
+						"odeh01q7q_x2d.fits",
+						"odeh01q7q_flt.fits"
 					],
 					"size":[
-						10535040,
 						2257920,
-						12147840
+						12147840,
+						10535040
 					],
 					"parent_obsid":[
 						2007654551,
@@ -340,8 +340,8 @@
 					],
 					"description":[
 						"DADS RAW file - Raw exposure COS/NICMOS/STIS/WFC3/ACS",
-						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS",
-						"DADS X2D file - Calibrated 2D spectrum STIS"
+						"DADS X2D file - Calibrated 2D spectrum STIS",
+						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
 						"S",
@@ -350,8 +350,8 @@
 					],
 					"dataURI":[
 						"mast:HST/product/odeh01q8q_raw.fits",
-						"mast:HST/product/odeh01q8q_flt.fits",
-						"mast:HST/product/odeh01q8q_x2d.fits"
+						"mast:HST/product/odeh01q8q_x2d.fits",
+						"mast:HST/product/odeh01q8q_flt.fits"
 					],
 					"productType":[
 						"SCIENCE",
@@ -360,13 +360,13 @@
 					],
 					"productGroupDescription":[
 						null,
-						"Minimum Recommended Products",
-						null
+						null,
+						"Minimum Recommended Products"
 					],
 					"productSubGroupDescription":[
 						"RAW",
-						"FLT",
-						"X2D"
+						"X2D",
+						"FLT"
 					],
 					"productDocumentationURL":[
 						null,
@@ -390,13 +390,13 @@
 					],
 					"productFilename":[
 						"odeh01q8q_raw.fits",
-						"odeh01q8q_flt.fits",
-						"odeh01q8q_x2d.fits"
+						"odeh01q8q_x2d.fits",
+						"odeh01q8q_flt.fits"
 					],
 					"size":[
 						2257920,
-						10535040,
-						12147840
+						12147840,
+						10535040
 					],
 					"parent_obsid":[
 						2007654552,
@@ -444,9 +444,9 @@
 					],
 					"description":[
 						"DADS RAW file - Raw exposure COS/NICMOS/STIS/WFC3/ACS",
-						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS",
+						"DADS X1D file - Calibrated 1D spectrum STIS",
 						"DADS X2D file - Calibrated 2D spectrum STIS",
-						"DADS X1D file - Calibrated 1D spectrum STIS"
+						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
 						"C",
@@ -456,9 +456,9 @@
 					],
 					"dataURI":[
 						"mast:HST/product/odeh01010_raw.fits",
-						"mast:HST/product/odeh01010_flt.fits",
+						"mast:HST/product/odeh01010_x1d.fits",
 						"mast:HST/product/odeh01010_x2d.fits",
-						"mast:HST/product/odeh01010_x1d.fits"
+						"mast:HST/product/odeh01010_flt.fits"
 					],
 					"productType":[
 						"SCIENCE",
@@ -468,15 +468,15 @@
 					],
 					"productGroupDescription":[
 						null,
-						"Minimum Recommended Products",
 						null,
-						null
+						null,
+						"Minimum Recommended Products"
 					],
 					"productSubGroupDescription":[
 						"RAW",
-						"FLT",
+						"X1D",
 						"X2D",
-						"X1D"
+						"FLT"
 					],
 					"productDocumentationURL":[
 						null,
@@ -504,15 +504,15 @@
 					],
 					"productFilename":[
 						"odeh01010_raw.fits",
-						"odeh01010_flt.fits",
+						"odeh01010_x1d.fits",
 						"odeh01010_x2d.fits",
-						"odeh01010_x1d.fits"
+						"odeh01010_flt.fits"
 					],
 					"size":[
 						8429760,
-						10535040,
+						77760,
 						14474880,
-						77760
+						10535040
 					],
 					"parent_obsid":[
 						2007654699,
