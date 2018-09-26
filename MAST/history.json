@@ -531,10 +531,10 @@
 		]
 	],
 	"AT2016ezh":[
-		1535350403.3454165,
+		1537942511.55723,
 		[
 			{
-				"target_classification":"field",
+				"target_classification":"UNIDENTIFIED;NUCLEUS",
 				"obsid":"2007654549",
 				"t_min":57806.23355,
 				"t_max":57806.2337815,
@@ -634,7 +634,7 @@
 				}
 			},
 			{
-				"target_classification":"field",
+				"target_classification":"UNIDENTIFIED;NUCLEUS",
 				"obsid":"2007654550",
 				"t_min":57806.2345915,
 				"t_max":57806.234823,
@@ -734,7 +734,7 @@
 				}
 			},
 			{
-				"target_classification":"field",
+				"target_classification":"UNIDENTIFIED;NUCLEUS",
 				"obsid":"2007654551",
 				"t_min":57806.2371611,
 				"t_max":57806.2373926,
@@ -834,7 +834,7 @@
 				}
 			},
 			{
-				"target_classification":"field",
+				"target_classification":"UNIDENTIFIED;NUCLEUS",
 				"obsid":"2007654552",
 				"t_min":57806.2382026,
 				"t_max":57806.2384341,
@@ -934,7 +934,7 @@
 				}
 			},
 			{
-				"target_classification":"field",
+				"target_classification":"UNIDENTIFIED;NUCLEUS",
 				"obsid":"2007654699",
 				"t_min":57806.2127978,
 				"t_max":57806.2313973,
