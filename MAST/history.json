@@ -1054,7 +1054,7 @@
 		]
 	],
 	"AT2018zr":[
-		1586587186.0604959,
+		1589179298.448543,
 		[
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
@@ -3289,6 +3289,292 @@
 				}
 			},
 			{
+				"target_classification":"GALAXY;ACCRETION DISK;NUCLEUS",
+				"obsid":"2008143597",
+				"t_min":58963.41041319,
+				"t_max":58963.43512396,
+				"instrument_name":"STIS/FUV-MAMA",
+				"proposal_pi":"Hung, Tzu-Yu",
+				"sciProds":{
+					"obsID":[
+						2008143597,
+						2008143597,
+						2008143597,
+						2008143597,
+						2008143597
+					],
+					"obs_collection":[
+						"HST",
+						"HST",
+						"HST",
+						"HST",
+						"HST"
+					],
+					"dataproduct_type":[
+						"spectrum",
+						"spectrum",
+						"spectrum",
+						"spectrum",
+						"spectrum"
+					],
+					"obs_id":[
+						"oe0402010",
+						"oe0402010",
+						"oe0402010",
+						"oe0402010",
+						"oe0402010"
+					],
+					"description":[
+						"DADS RAW file - Raw exposure COS/NICMOS/STIS/WFC3/ACS",
+						"DADS X1D file - Calibrated 1D spectrum STIS",
+						"DADS X2D file - Calibrated 2D spectrum STIS",
+						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS",
+						"DADS SX2 file - Calibrated combined 2D spectrum STIS"
+					],
+					"type":[
+						"C",
+						"C",
+						"C",
+						"C",
+						"C"
+					],
+					"dataURI":[
+						"mast:HST/product/oe0402010_raw.fits",
+						"mast:HST/product/oe0402010_x1d.fits",
+						"mast:HST/product/oe0402010_x2d.fits",
+						"mast:HST/product/oe0402010_flt.fits",
+						"mast:HST/product/oe0402010_sx2.fits"
+					],
+					"productType":[
+						"SCIENCE",
+						"SCIENCE",
+						"SCIENCE",
+						"SCIENCE",
+						"SCIENCE"
+					],
+					"productGroupDescription":[
+						null,
+						null,
+						null,
+						"Minimum Recommended Products",
+						"Minimum Recommended Products"
+					],
+					"productSubGroupDescription":[
+						"RAW",
+						"X1D",
+						"X2D",
+						"FLT",
+						"SX2"
+					],
+					"productDocumentationURL":[
+						null,
+						null,
+						null,
+						null,
+						null
+					],
+					"project":[
+						"CALSTIS",
+						"CALSTIS",
+						"CALSTIS",
+						"CALSTIS",
+						"CALSTIS"
+					],
+					"prvversion":[
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)"
+					],
+					"proposal_id":[
+						"15899",
+						"15899",
+						"15899",
+						"15899",
+						"15899"
+					],
+					"productFilename":[
+						"oe0402010_raw.fits",
+						"oe0402010_x1d.fits",
+						"oe0402010_x2d.fits",
+						"oe0402010_flt.fits",
+						"oe0402010_sx2.fits"
+					],
+					"size":[
+						16842240,
+						132480,
+						28926720,
+						21049920,
+						14474880
+					],
+					"parent_obsid":[
+						2008143597,
+						2008143597,
+						2008143597,
+						2008143597,
+						2008143597
+					],
+					"dataRights":[
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS"
+					],
+					"_selected_":[
+						null,
+						null,
+						null,
+						null,
+						null
+					]
+				}
+			},
+			{
+				"target_classification":"GALAXY;ACCRETION DISK;NUCLEUS",
+				"obsid":"2008143596",
+				"t_min":58963.46890841,
+				"t_max":58963.50183692,
+				"instrument_name":"STIS/FUV-MAMA",
+				"proposal_pi":"Hung, Tzu-Yu",
+				"sciProds":{
+					"obsID":[
+						2008143596,
+						2008143596,
+						2008143596,
+						2008143596,
+						2008143596
+					],
+					"obs_collection":[
+						"HST",
+						"HST",
+						"HST",
+						"HST",
+						"HST"
+					],
+					"dataproduct_type":[
+						"spectrum",
+						"spectrum",
+						"spectrum",
+						"spectrum",
+						"spectrum"
+					],
+					"obs_id":[
+						"oe0402020",
+						"oe0402020",
+						"oe0402020",
+						"oe0402020",
+						"oe0402020"
+					],
+					"description":[
+						"DADS RAW file - Raw exposure COS/NICMOS/STIS/WFC3/ACS",
+						"DADS X1D file - Calibrated 1D spectrum STIS",
+						"DADS X2D file - Calibrated 2D spectrum STIS",
+						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS",
+						"DADS SX2 file - Calibrated combined 2D spectrum STIS"
+					],
+					"type":[
+						"C",
+						"C",
+						"C",
+						"C",
+						"C"
+					],
+					"dataURI":[
+						"mast:HST/product/oe0402020_raw.fits",
+						"mast:HST/product/oe0402020_x1d.fits",
+						"mast:HST/product/oe0402020_x2d.fits",
+						"mast:HST/product/oe0402020_flt.fits",
+						"mast:HST/product/oe0402020_sx2.fits"
+					],
+					"productType":[
+						"SCIENCE",
+						"SCIENCE",
+						"SCIENCE",
+						"SCIENCE",
+						"SCIENCE"
+					],
+					"productGroupDescription":[
+						null,
+						null,
+						null,
+						"Minimum Recommended Products",
+						"Minimum Recommended Products"
+					],
+					"productSubGroupDescription":[
+						"RAW",
+						"X1D",
+						"X2D",
+						"FLT",
+						"SX2"
+					],
+					"productDocumentationURL":[
+						null,
+						null,
+						null,
+						null,
+						null
+					],
+					"project":[
+						"CALSTIS",
+						"CALSTIS",
+						"CALSTIS",
+						"CALSTIS",
+						"CALSTIS"
+					],
+					"prvversion":[
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)"
+					],
+					"proposal_id":[
+						"15899",
+						"15899",
+						"15899",
+						"15899",
+						"15899"
+					],
+					"productFilename":[
+						"oe0402020_raw.fits",
+						"oe0402020_x1d.fits",
+						"oe0402020_x2d.fits",
+						"oe0402020_flt.fits",
+						"oe0402020_sx2.fits"
+					],
+					"size":[
+						16842240,
+						132480,
+						28926720,
+						21049920,
+						14474880
+					],
+					"parent_obsid":[
+						2008143596,
+						2008143596,
+						2008143596,
+						2008143596,
+						2008143596
+					],
+					"dataRights":[
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS"
+					],
+					"_selected_":[
+						null,
+						null,
+						null,
+						null,
+						null
+					]
+				}
+			},
+			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"2007914696",
 				"t_min":58238.75066875,
@@ -4397,6 +4683,864 @@
 						"PUBLIC"
 					],
 					"_selected_":[
+						null,
+						null,
+						null,
+						null
+					]
+				}
+			},
+			{
+				"target_classification":"GALAXY;ACCRETION DISK;NUCLEUS",
+				"obsid":"2008144083",
+				"t_min":58967.38079506,
+				"t_max":58967.40550579,
+				"instrument_name":"STIS/FUV-MAMA",
+				"proposal_pi":"Hung, Tzu-Yu",
+				"sciProds":{
+					"obsID":[
+						2008144083,
+						2008144083,
+						2008144083,
+						2008144083,
+						2008144083
+					],
+					"obs_collection":[
+						"HST",
+						"HST",
+						"HST",
+						"HST",
+						"HST"
+					],
+					"dataproduct_type":[
+						"spectrum",
+						"spectrum",
+						"spectrum",
+						"spectrum",
+						"spectrum"
+					],
+					"obs_id":[
+						"oe0401010",
+						"oe0401010",
+						"oe0401010",
+						"oe0401010",
+						"oe0401010"
+					],
+					"description":[
+						"DADS RAW file - Raw exposure COS/NICMOS/STIS/WFC3/ACS",
+						"DADS X1D file - Calibrated 1D spectrum STIS",
+						"DADS X2D file - Calibrated 2D spectrum STIS",
+						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS",
+						"DADS SX2 file - Calibrated combined 2D spectrum STIS"
+					],
+					"type":[
+						"C",
+						"C",
+						"C",
+						"C",
+						"C"
+					],
+					"dataURI":[
+						"mast:HST/product/oe0401010_raw.fits",
+						"mast:HST/product/oe0401010_x1d.fits",
+						"mast:HST/product/oe0401010_x2d.fits",
+						"mast:HST/product/oe0401010_flt.fits",
+						"mast:HST/product/oe0401010_sx2.fits"
+					],
+					"productType":[
+						"SCIENCE",
+						"SCIENCE",
+						"SCIENCE",
+						"SCIENCE",
+						"SCIENCE"
+					],
+					"productGroupDescription":[
+						null,
+						null,
+						null,
+						"Minimum Recommended Products",
+						"Minimum Recommended Products"
+					],
+					"productSubGroupDescription":[
+						"RAW",
+						"X1D",
+						"X2D",
+						"FLT",
+						"SX2"
+					],
+					"productDocumentationURL":[
+						null,
+						null,
+						null,
+						null,
+						null
+					],
+					"project":[
+						"CALSTIS",
+						"CALSTIS",
+						"CALSTIS",
+						"CALSTIS",
+						"CALSTIS"
+					],
+					"prvversion":[
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)"
+					],
+					"proposal_id":[
+						"15899",
+						"15899",
+						"15899",
+						"15899",
+						"15899"
+					],
+					"productFilename":[
+						"oe0401010_raw.fits",
+						"oe0401010_x1d.fits",
+						"oe0401010_x2d.fits",
+						"oe0401010_flt.fits",
+						"oe0401010_sx2.fits"
+					],
+					"size":[
+						16842240,
+						132480,
+						28926720,
+						21049920,
+						14474880
+					],
+					"parent_obsid":[
+						2008144083,
+						2008144083,
+						2008144083,
+						2008144083,
+						2008144083
+					],
+					"dataRights":[
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS"
+					],
+					"_selected_":[
+						null,
+						null,
+						null,
+						null,
+						null
+					]
+				}
+			},
+			{
+				"target_classification":"GALAXY;ACCRETION DISK;NUCLEUS",
+				"obsid":"2008144095",
+				"t_min":58967.43977654,
+				"t_max":58967.47272804,
+				"instrument_name":"STIS/FUV-MAMA",
+				"proposal_pi":"Hung, Tzu-Yu",
+				"sciProds":{
+					"obsID":[
+						2008144095,
+						2008144095,
+						2008144095,
+						2008144095,
+						2008144095
+					],
+					"obs_collection":[
+						"HST",
+						"HST",
+						"HST",
+						"HST",
+						"HST"
+					],
+					"dataproduct_type":[
+						"spectrum",
+						"spectrum",
+						"spectrum",
+						"spectrum",
+						"spectrum"
+					],
+					"obs_id":[
+						"oe0401020",
+						"oe0401020",
+						"oe0401020",
+						"oe0401020",
+						"oe0401020"
+					],
+					"description":[
+						"DADS RAW file - Raw exposure COS/NICMOS/STIS/WFC3/ACS",
+						"DADS X1D file - Calibrated 1D spectrum STIS",
+						"DADS X2D file - Calibrated 2D spectrum STIS",
+						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS",
+						"DADS SX2 file - Calibrated combined 2D spectrum STIS"
+					],
+					"type":[
+						"C",
+						"C",
+						"C",
+						"C",
+						"C"
+					],
+					"dataURI":[
+						"mast:HST/product/oe0401020_raw.fits",
+						"mast:HST/product/oe0401020_x1d.fits",
+						"mast:HST/product/oe0401020_x2d.fits",
+						"mast:HST/product/oe0401020_flt.fits",
+						"mast:HST/product/oe0401020_sx2.fits"
+					],
+					"productType":[
+						"SCIENCE",
+						"SCIENCE",
+						"SCIENCE",
+						"SCIENCE",
+						"SCIENCE"
+					],
+					"productGroupDescription":[
+						null,
+						null,
+						null,
+						"Minimum Recommended Products",
+						"Minimum Recommended Products"
+					],
+					"productSubGroupDescription":[
+						"RAW",
+						"X1D",
+						"X2D",
+						"FLT",
+						"SX2"
+					],
+					"productDocumentationURL":[
+						null,
+						null,
+						null,
+						null,
+						null
+					],
+					"project":[
+						"CALSTIS",
+						"CALSTIS",
+						"CALSTIS",
+						"CALSTIS",
+						"CALSTIS"
+					],
+					"prvversion":[
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)"
+					],
+					"proposal_id":[
+						"15899",
+						"15899",
+						"15899",
+						"15899",
+						"15899"
+					],
+					"productFilename":[
+						"oe0401020_raw.fits",
+						"oe0401020_x1d.fits",
+						"oe0401020_x2d.fits",
+						"oe0401020_flt.fits",
+						"oe0401020_sx2.fits"
+					],
+					"size":[
+						25254720,
+						187200,
+						43378560,
+						31564800,
+						14474880
+					],
+					"parent_obsid":[
+						2008144095,
+						2008144095,
+						2008144095,
+						2008144095,
+						2008144095
+					],
+					"dataRights":[
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS"
+					],
+					"_selected_":[
+						null,
+						null,
+						null,
+						null,
+						null
+					]
+				}
+			},
+			{
+				"target_classification":"GALAXY;ACCRETION DISK;NUCLEUS",
+				"obsid":"2008144096",
+				"t_min":58967.50595729,
+				"t_max":58967.53890841,
+				"instrument_name":"STIS/FUV-MAMA",
+				"proposal_pi":"Hung, Tzu-Yu",
+				"sciProds":{
+					"obsID":[
+						2008144096,
+						2008144096,
+						2008144096,
+						2008144096,
+						2008144096
+					],
+					"obs_collection":[
+						"HST",
+						"HST",
+						"HST",
+						"HST",
+						"HST"
+					],
+					"dataproduct_type":[
+						"spectrum",
+						"spectrum",
+						"spectrum",
+						"spectrum",
+						"spectrum"
+					],
+					"obs_id":[
+						"oe0401030",
+						"oe0401030",
+						"oe0401030",
+						"oe0401030",
+						"oe0401030"
+					],
+					"description":[
+						"DADS RAW file - Raw exposure COS/NICMOS/STIS/WFC3/ACS",
+						"DADS X1D file - Calibrated 1D spectrum STIS",
+						"DADS X2D file - Calibrated 2D spectrum STIS",
+						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS",
+						"DADS SX2 file - Calibrated combined 2D spectrum STIS"
+					],
+					"type":[
+						"C",
+						"C",
+						"C",
+						"C",
+						"C"
+					],
+					"dataURI":[
+						"mast:HST/product/oe0401030_raw.fits",
+						"mast:HST/product/oe0401030_x1d.fits",
+						"mast:HST/product/oe0401030_x2d.fits",
+						"mast:HST/product/oe0401030_flt.fits",
+						"mast:HST/product/oe0401030_sx2.fits"
+					],
+					"productType":[
+						"SCIENCE",
+						"SCIENCE",
+						"SCIENCE",
+						"SCIENCE",
+						"SCIENCE"
+					],
+					"productGroupDescription":[
+						null,
+						null,
+						null,
+						"Minimum Recommended Products",
+						"Minimum Recommended Products"
+					],
+					"productSubGroupDescription":[
+						"RAW",
+						"X1D",
+						"X2D",
+						"FLT",
+						"SX2"
+					],
+					"productDocumentationURL":[
+						null,
+						null,
+						null,
+						null,
+						null
+					],
+					"project":[
+						"CALSTIS",
+						"CALSTIS",
+						"CALSTIS",
+						"CALSTIS",
+						"CALSTIS"
+					],
+					"prvversion":[
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)"
+					],
+					"proposal_id":[
+						"15899",
+						"15899",
+						"15899",
+						"15899",
+						"15899"
+					],
+					"productFilename":[
+						"oe0401030_raw.fits",
+						"oe0401030_x1d.fits",
+						"oe0401030_x2d.fits",
+						"oe0401030_flt.fits",
+						"oe0401030_sx2.fits"
+					],
+					"size":[
+						25254720,
+						187200,
+						43378560,
+						31564800,
+						14474880
+					],
+					"parent_obsid":[
+						2008144096,
+						2008144096,
+						2008144096,
+						2008144096,
+						2008144096
+					],
+					"dataRights":[
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS"
+					],
+					"_selected_":[
+						null,
+						null,
+						null,
+						null,
+						null
+					]
+				}
+			},
+			{
+				"target_classification":"GALAXY;ACCRETION DISK;NUCLEUS",
+				"obsid":"2008144268",
+				"t_min":58968.43251953,
+				"t_max":58968.46547098,
+				"instrument_name":"STIS/NUV-MAMA",
+				"proposal_pi":"Hung, Tzu-Yu",
+				"sciProds":{
+					"obsID":[
+						2008144268,
+						2008144268,
+						2008144268,
+						2008144268,
+						2008144268
+					],
+					"obs_collection":[
+						"HST",
+						"HST",
+						"HST",
+						"HST",
+						"HST"
+					],
+					"dataproduct_type":[
+						"spectrum",
+						"spectrum",
+						"spectrum",
+						"spectrum",
+						"spectrum"
+					],
+					"obs_id":[
+						"oe0403030",
+						"oe0403030",
+						"oe0403030",
+						"oe0403030",
+						"oe0403030"
+					],
+					"description":[
+						"DADS RAW file - Raw exposure COS/NICMOS/STIS/WFC3/ACS",
+						"DADS X1D file - Calibrated 1D spectrum STIS",
+						"DADS X2D file - Calibrated 2D spectrum STIS",
+						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS",
+						"DADS SX2 file - Calibrated combined 2D spectrum STIS"
+					],
+					"type":[
+						"C",
+						"C",
+						"C",
+						"C",
+						"C"
+					],
+					"dataURI":[
+						"mast:HST/product/oe0403030_raw.fits",
+						"mast:HST/product/oe0403030_x1d.fits",
+						"mast:HST/product/oe0403030_x2d.fits",
+						"mast:HST/product/oe0403030_flt.fits",
+						"mast:HST/product/oe0403030_sx2.fits"
+					],
+					"productType":[
+						"SCIENCE",
+						"SCIENCE",
+						"SCIENCE",
+						"SCIENCE",
+						"SCIENCE"
+					],
+					"productGroupDescription":[
+						null,
+						null,
+						null,
+						"Minimum Recommended Products",
+						"Minimum Recommended Products"
+					],
+					"productSubGroupDescription":[
+						"RAW",
+						"X1D",
+						"X2D",
+						"FLT",
+						"SX2"
+					],
+					"productDocumentationURL":[
+						null,
+						null,
+						null,
+						null,
+						null
+					],
+					"project":[
+						"CALSTIS",
+						"CALSTIS",
+						"CALSTIS",
+						"CALSTIS",
+						"CALSTIS"
+					],
+					"prvversion":[
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)"
+					],
+					"proposal_id":[
+						"15899",
+						"15899",
+						"15899",
+						"15899",
+						"15899"
+					],
+					"productFilename":[
+						"oe0403030_raw.fits",
+						"oe0403030_x1d.fits",
+						"oe0403030_x2d.fits",
+						"oe0403030_flt.fits",
+						"oe0403030_sx2.fits"
+					],
+					"size":[
+						25254720,
+						187200,
+						43378560,
+						31564800,
+						14474880
+					],
+					"parent_obsid":[
+						2008144268,
+						2008144268,
+						2008144268,
+						2008144268,
+						2008144268
+					],
+					"dataRights":[
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS"
+					],
+					"_selected_":[
+						null,
+						null,
+						null,
+						null,
+						null
+					]
+				}
+			},
+			{
+				"target_classification":"GALAXY;ACCRETION DISK;NUCLEUS",
+				"obsid":"2008144266",
+				"t_min":58968.30734618,
+				"t_max":58968.33205656,
+				"instrument_name":"STIS/NUV-MAMA",
+				"proposal_pi":"Hung, Tzu-Yu",
+				"sciProds":{
+					"obsID":[
+						2008144266,
+						2008144266,
+						2008144266,
+						2008144266,
+						2008144266
+					],
+					"obs_collection":[
+						"HST",
+						"HST",
+						"HST",
+						"HST",
+						"HST"
+					],
+					"dataproduct_type":[
+						"spectrum",
+						"spectrum",
+						"spectrum",
+						"spectrum",
+						"spectrum"
+					],
+					"obs_id":[
+						"oe0403010",
+						"oe0403010",
+						"oe0403010",
+						"oe0403010",
+						"oe0403010"
+					],
+					"description":[
+						"DADS RAW file - Raw exposure COS/NICMOS/STIS/WFC3/ACS",
+						"DADS X1D file - Calibrated 1D spectrum STIS",
+						"DADS X2D file - Calibrated 2D spectrum STIS",
+						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS",
+						"DADS SX2 file - Calibrated combined 2D spectrum STIS"
+					],
+					"type":[
+						"C",
+						"C",
+						"C",
+						"C",
+						"C"
+					],
+					"dataURI":[
+						"mast:HST/product/oe0403010_raw.fits",
+						"mast:HST/product/oe0403010_x1d.fits",
+						"mast:HST/product/oe0403010_x2d.fits",
+						"mast:HST/product/oe0403010_flt.fits",
+						"mast:HST/product/oe0403010_sx2.fits"
+					],
+					"productType":[
+						"SCIENCE",
+						"SCIENCE",
+						"SCIENCE",
+						"SCIENCE",
+						"SCIENCE"
+					],
+					"productGroupDescription":[
+						null,
+						null,
+						null,
+						"Minimum Recommended Products",
+						"Minimum Recommended Products"
+					],
+					"productSubGroupDescription":[
+						"RAW",
+						"X1D",
+						"X2D",
+						"FLT",
+						"SX2"
+					],
+					"productDocumentationURL":[
+						null,
+						null,
+						null,
+						null,
+						null
+					],
+					"project":[
+						"CALSTIS",
+						"CALSTIS",
+						"CALSTIS",
+						"CALSTIS",
+						"CALSTIS"
+					],
+					"prvversion":[
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)"
+					],
+					"proposal_id":[
+						"15899",
+						"15899",
+						"15899",
+						"15899",
+						"15899"
+					],
+					"productFilename":[
+						"oe0403010_raw.fits",
+						"oe0403010_x1d.fits",
+						"oe0403010_x2d.fits",
+						"oe0403010_flt.fits",
+						"oe0403010_sx2.fits"
+					],
+					"size":[
+						16842240,
+						132480,
+						28926720,
+						21049920,
+						14474880
+					],
+					"parent_obsid":[
+						2008144266,
+						2008144266,
+						2008144266,
+						2008144266,
+						2008144266
+					],
+					"dataRights":[
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS"
+					],
+					"_selected_":[
+						null,
+						null,
+						null,
+						null,
+						null
+					]
+				}
+			},
+			{
+				"target_classification":"GALAXY;ACCRETION DISK;NUCLEUS",
+				"obsid":"2008144267",
+				"t_min":58968.36633916,
+				"t_max":58968.39929062,
+				"instrument_name":"STIS/NUV-MAMA",
+				"proposal_pi":"Hung, Tzu-Yu",
+				"sciProds":{
+					"obsID":[
+						2008144267,
+						2008144267,
+						2008144267,
+						2008144267,
+						2008144267
+					],
+					"obs_collection":[
+						"HST",
+						"HST",
+						"HST",
+						"HST",
+						"HST"
+					],
+					"dataproduct_type":[
+						"spectrum",
+						"spectrum",
+						"spectrum",
+						"spectrum",
+						"spectrum"
+					],
+					"obs_id":[
+						"oe0403020",
+						"oe0403020",
+						"oe0403020",
+						"oe0403020",
+						"oe0403020"
+					],
+					"description":[
+						"DADS RAW file - Raw exposure COS/NICMOS/STIS/WFC3/ACS",
+						"DADS X1D file - Calibrated 1D spectrum STIS",
+						"DADS X2D file - Calibrated 2D spectrum STIS",
+						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS",
+						"DADS SX2 file - Calibrated combined 2D spectrum STIS"
+					],
+					"type":[
+						"C",
+						"C",
+						"C",
+						"C",
+						"C"
+					],
+					"dataURI":[
+						"mast:HST/product/oe0403020_raw.fits",
+						"mast:HST/product/oe0403020_x1d.fits",
+						"mast:HST/product/oe0403020_x2d.fits",
+						"mast:HST/product/oe0403020_flt.fits",
+						"mast:HST/product/oe0403020_sx2.fits"
+					],
+					"productType":[
+						"SCIENCE",
+						"SCIENCE",
+						"SCIENCE",
+						"SCIENCE",
+						"SCIENCE"
+					],
+					"productGroupDescription":[
+						null,
+						null,
+						null,
+						"Minimum Recommended Products",
+						"Minimum Recommended Products"
+					],
+					"productSubGroupDescription":[
+						"RAW",
+						"X1D",
+						"X2D",
+						"FLT",
+						"SX2"
+					],
+					"productDocumentationURL":[
+						null,
+						null,
+						null,
+						null,
+						null
+					],
+					"project":[
+						"CALSTIS",
+						"CALSTIS",
+						"CALSTIS",
+						"CALSTIS",
+						"CALSTIS"
+					],
+					"prvversion":[
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)",
+						"3.4.2 (19-Jan-2018)"
+					],
+					"proposal_id":[
+						"15899",
+						"15899",
+						"15899",
+						"15899",
+						"15899"
+					],
+					"productFilename":[
+						"oe0403020_raw.fits",
+						"oe0403020_x1d.fits",
+						"oe0403020_x2d.fits",
+						"oe0403020_flt.fits",
+						"oe0403020_sx2.fits"
+					],
+					"size":[
+						25254720,
+						187200,
+						43378560,
+						31564800,
+						14474880
+					],
+					"parent_obsid":[
+						2008144267,
+						2008144267,
+						2008144267,
+						2008144267,
+						2008144267
+					],
+					"dataRights":[
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS",
+						"EXCLUSIVE_ACCESS"
+					],
+					"_selected_":[
+						null,
 						null,
 						null,
 						null,
