@@ -1,6 +1,6 @@
 {
 	"2XMMi J1847":[
-		1610783328.410462,
+		1616600870.9560232,
 		[]
 	],
 	"XMMSL1 J0740-85":[
@@ -1054,7 +1054,7 @@
 		]
 	],
 	"AT2018zr":[
-		1610783465.2535353,
+		1616601011.063284,
 		[
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
@@ -1165,6 +1165,18 @@
 						2007889271,
 						2007889271,
 						2007889271
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
 					],
 					"_selected_":[
 						null,
@@ -1284,6 +1296,18 @@
 						2007889274,
 						2007889274
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -1401,6 +1425,18 @@
 						2007889277,
 						2007889277,
 						2007889277
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
 					],
 					"_selected_":[
 						null,
@@ -1520,6 +1556,18 @@
 						2007889270,
 						2007889270
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -1637,6 +1685,18 @@
 						2007889273,
 						2007889273,
 						2007889273
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
 					],
 					"_selected_":[
 						null,
@@ -1756,6 +1816,18 @@
 						2007889276,
 						2007889276
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -1873,6 +1945,18 @@
 						2007889272,
 						2007889272,
 						2007889272
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
 					],
 					"_selected_":[
 						null,
@@ -1992,6 +2076,18 @@
 						2007889275,
 						2007889275
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -2109,6 +2205,18 @@
 						2007889278,
 						2007889278,
 						2007889278
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
 					],
 					"_selected_":[
 						null,
@@ -2228,6 +2336,18 @@
 						2007914698,
 						2007914698
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -2345,6 +2465,18 @@
 						2007914705,
 						2007914705,
 						2007914705
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
 					],
 					"_selected_":[
 						null,
@@ -2464,6 +2596,18 @@
 						2007914710,
 						2007914710
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -2581,6 +2725,18 @@
 						2007914709,
 						2007914709,
 						2007914709
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
 					],
 					"_selected_":[
 						null,
@@ -2700,6 +2856,18 @@
 						2007914704,
 						2007914704
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -2817,6 +2985,18 @@
 						2007914703,
 						2007914703,
 						2007914703
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
 					],
 					"_selected_":[
 						null,
@@ -2936,6 +3116,18 @@
 						2007914693,
 						2007914693
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -3054,6 +3246,18 @@
 						2007914708,
 						2007914708
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -3171,6 +3375,18 @@
 						2007914694,
 						2007914694,
 						2007914694
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
 					],
 					"_selected_":[
 						null,
@@ -3306,6 +3522,20 @@
 						2008143597,
 						2008143597,
 						2008143597
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2,
+						3
 					],
 					"_selected_":[
 						null,
@@ -3443,6 +3673,20 @@
 						2008143596,
 						2008143596
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2,
+						3
+					],
 					"_selected_":[
 						null,
 						null,
@@ -3562,6 +3806,18 @@
 						2007914696,
 						2007914696
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -3679,6 +3935,18 @@
 						2007914707,
 						2007914707,
 						2007914707
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
 					],
 					"_selected_":[
 						null,
@@ -3798,6 +4066,18 @@
 						2007914695,
 						2007914695
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -3915,6 +4195,18 @@
 						2007914701,
 						2007914701,
 						2007914701
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
 					],
 					"_selected_":[
 						null,
@@ -4034,6 +4326,18 @@
 						2007914700,
 						2007914700
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -4151,6 +4455,18 @@
 						2007914697,
 						2007914697,
 						2007914697
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
 					],
 					"_selected_":[
 						null,
@@ -4270,6 +4586,18 @@
 						2007914702,
 						2007914702
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -4388,6 +4716,18 @@
 						2007914706,
 						2007914706
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -4505,6 +4845,18 @@
 						2007914699,
 						2007914699,
 						2007914699
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
 					],
 					"_selected_":[
 						null,
@@ -4640,6 +4992,20 @@
 						2008144083,
 						2008144083,
 						2008144083
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2,
+						3
 					],
 					"_selected_":[
 						null,
@@ -4777,6 +5143,20 @@
 						2008144095,
 						2008144095
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2,
+						3
+					],
 					"_selected_":[
 						null,
 						null,
@@ -4912,6 +5292,20 @@
 						2008144096,
 						2008144096,
 						2008144096
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2,
+						3
 					],
 					"_selected_":[
 						null,
@@ -5049,6 +5443,20 @@
 						2008144268,
 						2008144268
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2,
+						3
+					],
 					"_selected_":[
 						null,
 						null,
@@ -5184,6 +5592,20 @@
 						2008144266,
 						2008144266,
 						2008144266
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2,
+						3
 					],
 					"_selected_":[
 						null,
@@ -5321,6 +5743,20 @@
 						2008144267,
 						2008144267
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2,
+						3
+					],
 					"_selected_":[
 						null,
 						null,
@@ -5440,6 +5876,18 @@
 						2007947610,
 						2007947610
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -5557,6 +6005,18 @@
 						2007947612,
 						2007947612,
 						2007947612
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
 					],
 					"_selected_":[
 						null,
@@ -5676,6 +6136,18 @@
 						2007947607,
 						2007947607
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -5793,6 +6265,18 @@
 						2007947614,
 						2007947614,
 						2007947614
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
 					],
 					"_selected_":[
 						null,
@@ -5912,6 +6396,18 @@
 						2007947611,
 						2007947611
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -6029,6 +6525,18 @@
 						2007947615,
 						2007947615,
 						2007947615
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
 					],
 					"_selected_":[
 						null,
@@ -6148,6 +6656,18 @@
 						2007947608,
 						2007947608
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -6265,6 +6785,18 @@
 						2007947613,
 						2007947613,
 						2007947613
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
 					],
 					"_selected_":[
 						null,
@@ -6384,6 +6916,18 @@
 						2007947616,
 						2007947616
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -6501,6 +7045,18 @@
 						2007916444,
 						2007916444,
 						2007916444
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
 					],
 					"_selected_":[
 						null,
@@ -6620,6 +7176,18 @@
 						2007916450,
 						2007916450
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -6737,6 +7305,18 @@
 						2007916449,
 						2007916449,
 						2007916449
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
 					],
 					"_selected_":[
 						null,
@@ -6856,6 +7436,18 @@
 						2007916447,
 						2007916447
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -6973,6 +7565,18 @@
 						2007916441,
 						2007916441,
 						2007916441
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
 					],
 					"_selected_":[
 						null,
@@ -7092,6 +7696,18 @@
 						2007916443,
 						2007916443
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -7209,6 +7825,18 @@
 						2007916448,
 						2007916448,
 						2007916448
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
 					],
 					"_selected_":[
 						null,
@@ -7328,6 +7956,18 @@
 						2007916440,
 						2007916440
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -7445,6 +8085,18 @@
 						2007916442,
 						2007916442,
 						2007916442
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
 					],
 					"_selected_":[
 						null,
@@ -7564,6 +8216,18 @@
 						2007948292,
 						2007948292
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -7681,6 +8345,18 @@
 						2007948294,
 						2007948294,
 						2007948294
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
 					],
 					"_selected_":[
 						null,
@@ -7800,6 +8476,18 @@
 						2007948300,
 						2007948300
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -7917,6 +8605,18 @@
 						2007948302,
 						2007948302,
 						2007948302
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
 					],
 					"_selected_":[
 						null,
@@ -8036,6 +8736,18 @@
 						2007948301,
 						2007948301
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -8153,6 +8865,18 @@
 						2007948293,
 						2007948293,
 						2007948293
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
 					],
 					"_selected_":[
 						null,
@@ -8272,6 +8996,18 @@
 						2007948298,
 						2007948298
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -8389,6 +9125,18 @@
 						2007948686,
 						2007948686,
 						2007948686
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
 					],
 					"_selected_":[
 						null,
@@ -8508,6 +9256,18 @@
 						2007948304,
 						2007948304
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -8625,6 +9385,18 @@
 						2007916061,
 						2007916061,
 						2007916061
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
 					],
 					"_selected_":[
 						null,
@@ -8744,6 +9516,18 @@
 						2007916059,
 						2007916059
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -8861,6 +9645,18 @@
 						2007916065,
 						2007916065,
 						2007916065
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
 					],
 					"_selected_":[
 						null,
@@ -8980,6 +9776,18 @@
 						2007916057,
 						2007916057
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -9046,6 +9854,12 @@
 					],
 					"parent_obsid":[
 						2007916062
+					],
+					"dataRights":[
+						"PUBLIC"
+					],
+					"calib_level":[
+						1
 					],
 					"_selected_":[
 						null
@@ -9161,6 +9975,18 @@
 						2007916064,
 						2007916064,
 						2007916064
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
 					],
 					"_selected_":[
 						null,
@@ -9280,6 +10106,18 @@
 						2007916060,
 						2007916060
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -9398,6 +10236,18 @@
 						2007916058,
 						2007916058
 					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
+					],
 					"_selected_":[
 						null,
 						null,
@@ -9515,6 +10365,18 @@
 						2007916138,
 						2007916138,
 						2007916138
+					],
+					"dataRights":[
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC",
+						"PUBLIC"
+					],
+					"calib_level":[
+						1,
+						2,
+						2,
+						2
 					],
 					"_selected_":[
 						null,
