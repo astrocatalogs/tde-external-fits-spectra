@@ -1,6 +1,6 @@
 {
 	"2XMMi J1847":[
-		1621924202.2290888,
+		1627022278.4439054,
 		[]
 	],
 	"XMMSL1 J0740-85":[
@@ -1054,7 +1054,7 @@
 		]
 	],
 	"AT2018zr":[
-		1621924376.6697752,
+		1627022456.2430947,
 		[
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
@@ -1189,8 +1189,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26080839",
-				"t_min":58219.4717902,
-				"t_max":58219.48243834,
+				"t_min":58219.47179019676,
+				"t_max":58219.48243834491,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -1225,10 +1225,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods731050_raw.fits",
@@ -1319,8 +1319,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26080842",
-				"t_min":58219.53807503,
-				"t_max":58219.54872318,
+				"t_min":58219.538075034725,
+				"t_max":58219.548723182874,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -1355,10 +1355,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods731080_raw.fits",
@@ -1579,8 +1579,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26080838",
-				"t_min":58219.42592207,
-				"t_max":58219.43657022,
+				"t_min":58219.42592207176,
+				"t_max":58219.43657021991,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -1615,10 +1615,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods731040_raw.fits",
@@ -1709,8 +1709,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26080841",
-				"t_min":58219.49647763,
-				"t_max":58219.50712578,
+				"t_min":58219.49647762731,
+				"t_max":58219.50712577546,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -1745,10 +1745,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods731070_raw.fits",
@@ -1969,8 +1969,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26080840",
-				"t_min":58219.4829939,
-				"t_max":58219.49364205,
+				"t_min":58219.48299390046,
+				"t_max":58219.49364204861,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -2005,10 +2005,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods731060_raw.fits",
@@ -2099,8 +2099,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26080843",
-				"t_min":58219.5492787,
-				"t_max":58219.55992689,
+				"t_min":58219.5492787037,
+				"t_max":58219.55992688658,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -2135,10 +2135,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods731090_raw.fits",
@@ -2359,8 +2359,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26104101",
-				"t_min":58233.12755544,
-				"t_max":58233.13820359,
+				"t_min":58233.127555439816,
+				"t_max":58233.138203587965,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -2395,10 +2395,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods732050_raw.fits",
@@ -2489,8 +2489,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26104106",
-				"t_min":58233.19268249,
-				"t_max":58233.20333064,
+				"t_min":58233.19268248843,
+				"t_max":58233.20333063658,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -2525,10 +2525,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods732080_raw.fits",
@@ -2749,8 +2749,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26104100",
-				"t_min":58233.13875914,
-				"t_max":58233.14940729,
+				"t_min":58233.13875914352,
+				"t_max":58233.14940729167,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -2785,10 +2785,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods732060_raw.fits",
@@ -2879,8 +2879,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26104099",
-				"t_min":58233.20388619,
-				"t_max":58233.21453434,
+				"t_min":58233.20388619213,
+				"t_max":58233.21453434028,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -2915,10 +2915,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods732090_raw.fits",
@@ -3139,8 +3139,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26104104",
-				"t_min":58233.11527508,
-				"t_max":58233.12592323,
+				"t_min":58233.11527508102,
+				"t_max":58233.12592322916,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -3175,10 +3175,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods732040_raw.fits",
@@ -3269,8 +3269,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26104090",
-				"t_min":58233.18147878,
-				"t_max":58233.19212693,
+				"t_min":58233.181478784725,
+				"t_max":58233.19212693287,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -3305,10 +3305,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods732070_raw.fits",
@@ -3399,8 +3399,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK;NUCLEUS",
 				"obsid":"26270964",
-				"t_min":58963.41041319,
-				"t_max":58963.43512396,
+				"t_min":58963.41041319445,
+				"t_max":58963.435123958334,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Hung, Tzu-Yu",
 				"sciProds":{
@@ -3440,11 +3440,11 @@
 						"DADS SX2 file - Calibrated combined 2D spectrum STIS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/oe0402010_raw.fits",
@@ -3549,8 +3549,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK;NUCLEUS",
 				"obsid":"26270963",
-				"t_min":58963.46890841,
-				"t_max":58963.50183692,
+				"t_min":58963.468908414354,
+				"t_max":58963.5018369213,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Hung, Tzu-Yu",
 				"sciProds":{
@@ -3590,11 +3590,11 @@
 						"DADS SX2 file - Calibrated combined 2D spectrum STIS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/oe0402020_raw.fits",
@@ -3829,8 +3829,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26104103",
-				"t_min":58238.80863171,
-				"t_max":58238.8192799,
+				"t_min":58238.808631712964,
+				"t_max":58238.81927989583,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -3865,10 +3865,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods733040_raw.fits",
@@ -3959,8 +3959,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26104091",
-				"t_min":58238.87483542,
-				"t_max":58238.88548356,
+				"t_min":58238.87483541667,
+				"t_max":58238.885483564816,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -3995,10 +3995,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods733070_raw.fits",
@@ -4219,8 +4219,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26104096",
-				"t_min":58238.82091172,
-				"t_max":58238.83155987,
+				"t_min":58238.820911724535,
+				"t_max":58238.831559872684,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -4255,10 +4255,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods733050_raw.fits",
@@ -4349,8 +4349,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26104093",
-				"t_min":58238.88603912,
-				"t_max":58238.89668727,
+				"t_min":58238.88603912037,
+				"t_max":58238.89668726852,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -4385,10 +4385,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods733080_raw.fits",
@@ -4609,8 +4609,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26104102",
-				"t_min":58238.83211543,
-				"t_max":58238.84276358,
+				"t_min":58238.83211542824,
+				"t_max":58238.84276357639,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -4645,10 +4645,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods733060_raw.fits",
@@ -4739,8 +4739,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26104095",
-				"t_min":58238.89724282,
-				"t_max":58238.90789101,
+				"t_min":58238.897242824074,
+				"t_max":58238.907891006944,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -4775,10 +4775,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods733090_raw.fits",
@@ -4869,8 +4869,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK;NUCLEUS",
 				"obsid":"26271350",
-				"t_min":58967.38079506,
-				"t_max":58967.40550579,
+				"t_min":58967.38079505787,
+				"t_max":58967.405505787036,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Hung, Tzu-Yu",
 				"sciProds":{
@@ -4910,11 +4910,11 @@
 						"DADS SX2 file - Calibrated combined 2D spectrum STIS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/oe0401010_raw.fits",
@@ -5019,8 +5019,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK;NUCLEUS",
 				"obsid":"26271362",
-				"t_min":58967.43977654,
-				"t_max":58967.47272804,
+				"t_min":58967.43977653935,
+				"t_max":58967.472728043984,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Hung, Tzu-Yu",
 				"sciProds":{
@@ -5060,11 +5060,11 @@
 						"DADS SX2 file - Calibrated combined 2D spectrum STIS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/oe0401020_raw.fits",
@@ -5169,8 +5169,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK;NUCLEUS",
 				"obsid":"26271363",
-				"t_min":58967.50595729,
-				"t_max":58967.53890841,
+				"t_min":58967.505957291665,
+				"t_max":58967.53890841435,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Hung, Tzu-Yu",
 				"sciProds":{
@@ -5210,11 +5210,11 @@
 						"DADS SX2 file - Calibrated combined 2D spectrum STIS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/oe0401030_raw.fits",
@@ -5319,8 +5319,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK;NUCLEUS",
 				"obsid":"26271479",
-				"t_min":58968.43251953,
-				"t_max":58968.46547098,
+				"t_min":58968.432519525464,
+				"t_max":58968.4654709838,
 				"instrument_name":"STIS/NUV-MAMA",
 				"proposal_pi":"Hung, Tzu-Yu",
 				"sciProds":{
@@ -5360,11 +5360,11 @@
 						"DADS SX2 file - Calibrated combined 2D spectrum STIS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/oe0403030_raw.fits",
@@ -5469,8 +5469,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK;NUCLEUS",
 				"obsid":"26271477",
-				"t_min":58968.30734618,
-				"t_max":58968.33205656,
+				"t_min":58968.307346180554,
+				"t_max":58968.3320565625,
 				"instrument_name":"STIS/NUV-MAMA",
 				"proposal_pi":"Hung, Tzu-Yu",
 				"sciProds":{
@@ -5510,11 +5510,11 @@
 						"DADS SX2 file - Calibrated combined 2D spectrum STIS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/oe0403010_raw.fits",
@@ -5619,8 +5619,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK;NUCLEUS",
 				"obsid":"26271478",
-				"t_min":58968.36633916,
-				"t_max":58968.39929062,
+				"t_min":58968.366339155094,
+				"t_max":58968.399290625,
 				"instrument_name":"STIS/NUV-MAMA",
 				"proposal_pi":"Hung, Tzu-Yu",
 				"sciProds":{
@@ -5660,11 +5660,11 @@
 						"DADS SX2 file - Calibrated combined 2D spectrum STIS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/oe0403020_raw.fits",
@@ -7069,8 +7069,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26105838",
-				"t_min":58261.34105112,
-				"t_max":58261.35169931,
+				"t_min":58261.34105112268,
+				"t_max":58261.35169930555,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -7105,10 +7105,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods735050_raw.fits",
@@ -7199,8 +7199,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26105837",
-				"t_min":58261.40761374,
-				"t_max":58261.41826189,
+				"t_min":58261.407613738425,
+				"t_max":58261.418261886574,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -7235,10 +7235,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods735080_raw.fits",
@@ -7459,8 +7459,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26105829",
-				"t_min":58261.32877115,
-				"t_max":58261.33941929,
+				"t_min":58261.32877114583,
+				"t_max":58261.33941929398,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -7495,10 +7495,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods735040_raw.fits",
@@ -7589,8 +7589,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26105831",
-				"t_min":58261.39641003,
-				"t_max":58261.40705818,
+				"t_min":58261.39641003472,
+				"t_max":58261.40705818287,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -7625,10 +7625,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods735070_raw.fits",
@@ -7849,8 +7849,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26105828",
-				"t_min":58261.38292635,
-				"t_max":58261.3935745,
+				"t_min":58261.38292635417,
+				"t_max":58261.39357450231,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -7885,10 +7885,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods735060_raw.fits",
@@ -7979,8 +7979,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26105830",
-				"t_min":58261.44913006,
-				"t_max":58261.45977821,
+				"t_min":58261.449130057874,
+				"t_max":58261.459778206015,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -8015,10 +8015,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods735090_raw.fits",
@@ -8109,8 +8109,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26134811",
-				"t_min":58446.66749182,
-				"t_max":58446.67478348,
+				"t_min":58446.66749181713,
+				"t_max":58446.674783483795,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -8145,10 +8145,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods718010_raw.fits",
@@ -8239,8 +8239,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26134813",
-				"t_min":58446.72391554,
-				"t_max":58446.73392712,
+				"t_min":58446.72391554398,
+				"t_max":58446.73392711805,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -8275,10 +8275,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods718040_raw.fits",
@@ -8369,8 +8369,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26134819",
-				"t_min":58446.79013071,
-				"t_max":58446.80014228,
+				"t_min":58446.79013070602,
+				"t_max":58446.800142280095,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -8405,10 +8405,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods718070_raw.fits",
@@ -8499,8 +8499,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26134821",
-				"t_min":58446.67641554,
-				"t_max":58446.68370721,
+				"t_min":58446.67641554398,
+				"t_max":58446.68370721065,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -8535,10 +8535,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods718020_raw.fits",
@@ -8629,8 +8629,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26134820",
-				"t_min":58446.73676258,
-				"t_max":58446.74677416,
+				"t_min":58446.73676258102,
+				"t_max":58446.74677415509,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -8665,10 +8665,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods718050_raw.fits",
@@ -8759,8 +8759,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26134812",
-				"t_min":58446.80297813,
-				"t_max":58446.8129897,
+				"t_min":58446.802978125,
+				"t_max":58446.81298969907,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -8795,10 +8795,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods718080_raw.fits",
@@ -8889,8 +8889,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26134817",
-				"t_min":58446.68426258,
-				"t_max":58446.69155425,
+				"t_min":58446.68426258102,
+				"t_max":58446.691554247685,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -8925,10 +8925,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods718030_raw.fits",
@@ -9019,8 +9019,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26135184",
-				"t_min":58446.74732998,
-				"t_max":58446.75734155,
+				"t_min":58446.74732997685,
+				"t_max":58446.757341550925,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -9055,10 +9055,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods718060_raw.fits",
@@ -9149,8 +9149,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26134823",
-				"t_min":58446.81354517,
-				"t_max":58446.82355675,
+				"t_min":58446.81354517361,
+				"t_max":58446.82355674769,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -9185,10 +9185,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods718090_raw.fits",
@@ -9409,8 +9409,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26105447",
-				"t_min":58258.61490521,
-				"t_max":58258.62555336,
+				"t_min":58258.614905208335,
+				"t_max":58258.62555335648,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -9445,10 +9445,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods734050_raw.fits",
@@ -9539,8 +9539,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26105453",
-				"t_min":58258.6800326,
-				"t_max":58258.69068079,
+				"t_min":58258.68003260417,
+				"t_max":58258.69068078704,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -9575,10 +9575,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods734080_raw.fits",
@@ -9799,8 +9799,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26105450",
-				"t_min":58258.60262523,
-				"t_max":58258.60262523,
+				"t_min":58258.602625231484,
+				"t_max":58258.602625231484,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -9820,7 +9820,7 @@
 						"DADS RAW file - Raw exposure COS/NICMOS/STIS/WFC3/ACS"
 					],
 					"type":[
-						"C"
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods734040_raw.fits"
@@ -9869,8 +9869,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26105452",
-				"t_min":58258.66882894,
-				"t_max":58258.67947708,
+				"t_min":58258.66882893519,
+				"t_max":58258.67947708334,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -9905,10 +9905,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods734070_raw.fits",
@@ -10129,8 +10129,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26105446",
-				"t_min":58258.62610891,
-				"t_max":58258.63675706,
+				"t_min":58258.62610891204,
+				"t_max":58258.63675706019,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -10165,10 +10165,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods734060_raw.fits",
@@ -10259,8 +10259,8 @@
 			{
 				"target_classification":"GALAXY;ACCRETION DISK",
 				"obsid":"26105526",
-				"t_min":58258.69123634,
-				"t_max":58258.70188449,
+				"t_min":58258.691236342594,
+				"t_max":58258.70188449074,
 				"instrument_name":"STIS/FUV-MAMA",
 				"proposal_pi":"Cenko, Stephen Bradley",
 				"sciProds":{
@@ -10295,10 +10295,10 @@
 						"DADS FLT file - Calibrated exposure ACS/WFC3/STIS/COS"
 					],
 					"type":[
-						"C",
-						"C",
-						"C",
-						"C"
+						"D",
+						"D",
+						"D",
+						"D"
 					],
 					"dataURI":[
 						"mast:HST/product/ods734090_raw.fits",
